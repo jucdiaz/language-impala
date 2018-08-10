@@ -1,3 +1,3 @@
-'.source.hql':
+'.source.sql':
     'editor':
         'commentStart': '-- '
