@@ -1,0 +1,14 @@
+{
+  "name": "Impala",
+  "version": "0.1",
+  "description": "Impala support : syntax highlighting",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chriscx/language-hive"
+  },
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {}
+}
